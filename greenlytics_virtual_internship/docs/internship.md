@@ -43,8 +43,6 @@ Since launch, Greenlytics has:
 - Supported over 5 million residents across Europe in accessing cleaner air  
 - Partnered with academic institutions to open-source urban climate data models
 
----
-
 ## Internship Story: Welcome to the Team
 
 Congratulations! You've just joined **Greenlytics** as a **Data Science Intern** on the **Urban Insights Team**, part of our mission-driven effort to make city air cleaner and healthier through the power of data.
@@ -84,8 +82,6 @@ Over the course of the internship, your key responsibilities will include:
 - **Demo Day**: Final presentation in Week 6 to the Greenlytics leadership team and City of London representatives
 
 You're not just here to learn—you’re here to **make an impact**. The insights you generate could shape real-world environmental policy decisions. Welcome to Greenlytics. Let’s get started.
-
----
 
 ## Internship Goal
 
