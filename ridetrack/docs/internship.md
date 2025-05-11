@@ -1,7 +1,5 @@
 # Virtual Internship: Real-Time Data Engineering at RideTrack
 
----
-
 # About RideTrack
 
 **RideTrack** is a Berlin-based **smart mobility startup** that helps e-scooter operators across Europe optimize fleet performance using real-time telemetry and advanced analytics. Our mission is to help urban operators **minimize downtime**, **maximize battery life**, and **streamline fleet logistics** through data.
@@ -10,7 +8,6 @@ At the heart of our platform is a streaming data pipeline that ingests **high-fr
 
 We’ve deployed our platform with leading operators in Berlin, Warsaw, and Amsterdam. Most recently, we partnered with **Zippy Scooters**, a fast-growing operator in **Paris**, to power their fleet’s real-time intelligence and operational insights.
 
----
 
 ## Tech Stack
 
@@ -20,7 +17,6 @@ We’ve deployed our platform with leading operators in Berlin, Warsaw, and Amst
 - **Business Intelligence**: Power BI  
 - **Cloud & DevOps**: Confluent (Kafka), AWS (S3, RDS), GitHub, Slack  
 
----
 
 ## Our Team
 
@@ -33,7 +29,6 @@ We are a cross-functional team of:
 
 We work in **agile squads**, with fast feedback loops across data, product, and operations.
 
----
 
 ## Our Culture
 
@@ -44,7 +39,6 @@ At RideTrack, we believe in:
 - **Operational impact**: Every pipeline, metric, and alert serves real-time decision-making  
 - **Autonomy + mentorship**: You’ll own your deliverables, but you won’t be alone
 
----
 
 ## Internship Story: Welcome to the Team
 
@@ -87,7 +81,6 @@ Over the course of your internship, you’ll:
 
 You're not just here to write code—you’re here to help **power a city’s entire scooter network in real-time**. Let’s build something great.
 
----
 
 ## Internship Goal
 

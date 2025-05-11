@@ -4,7 +4,6 @@ Welcome to your Data Engineering internship at RideTrack!
 
 This project simulates a real-world scooter fleet data pipeline using Kafka, Spark, PostgreSQL, and Power BI.
 
----
 
 ## Getting Started
 
@@ -31,7 +30,6 @@ You can use `mock_stream_output.csv` if your Kafka setup is not working:
 head -n 5 mock_stream_output.csv
 ```
 
----
 
 ## Testing the Pipeline
 
